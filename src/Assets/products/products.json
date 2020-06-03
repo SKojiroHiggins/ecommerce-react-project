@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Gloomhaven",
+        "price": "$145.00",
+        "className": "product-grid__product expensive adventure exploration fantasy fighting miniatures show",
+        "description": "Gloomhaven is a game of Euro-inspired tactical combat in a persistent world of shifting motives. Players will take on the role of a wandering adventurer with their own special set of skills and their own reasons for traveling to this dark corner of the world.",
+        "url": "https://cf.geekdo-images.com/imagepage/img/-nnzXSm6wDQvH5lckCzUtaaprGE=/fit-in/900x600/filters:no_upscale()/pic2437871.jpg",
+        "imgalt":"gloomhaven cover art",
+        "imgClass": "product-grid__img"
+    },
+    {
+        "name": "Pandemic Legacy",
+        "price": "$81.00",
+        "className": "product-grid__product expensive environmental medical show",
+        "description": "Pandemic Legacy is a co-operative campaign game, with an overarching story-arc played through 12-24 sessions, depending on how well your group does at the game.",
+        "url": "https://cf.geekdo-images.com/imagepage/img/vuhGm0iS67iW8Z1019HsPmijRUU=/fit-in/900x600/filters:no_upscale()/pic2452831.png",
+        "imgalt":"pandemic legacy cover art",
+        "imgClass": "product-grid__img"
+    },
+    {
+        "name": "Terraforming Mars",
+        "price": "$41.99",
+        "className": "product-grid__product medium economic environmental industry science-fiction exploration territory-building show",
+        "description": "In the 2400s, mankind begins to terraform the planet Mars. Giant corporations, sponsored by the World Government on Earth, initiate huge projects to raise the temperature, the oxygen level, and the ocean coverage until the environment is habitable.",
+        "url": "https://cf.geekdo-images.com/imagepage/img/sgZLoyg3KKeHvyHel8tZ2TIkXRw=/fit-in/900x600/filters:no_upscale()/pic3536616.jpg",
+        "imgalt":"terraforming mars cover art",
+        "imgClass": "product-grid__img"
+    },
+    {
+        "name": "Brass: Birmingham",
+        "price": "$87.95",
+        "className": "product-grid__product expensive economic industry transportation show",
+        "description": "Brass: Birmingham is an economic strategy game sequel to Martin Wallace' 2007 masterpiece, Brass. Birmingham tells the story of competing entrepreneurs in Birmingham during the industrial revolution, between the years of 1770-1870.",
+        "url": "https://cf.geekdo-images.com/imagepage/img/9ik7Wc_ANTeGU-V5wXytIxPZ2sE=/fit-in/900x600/filters:no_upscale()/pic3490053.jpg",
+        "imgalt":"birmingham cover art",
+        "imgClass": "product-grid__img"
+    },
+    {
+        "name": "Through the Ages",
+        "price": "$54.11",
+        "className": "product-grid__product medium card-game civilization economic show",
+        "description": "Through the Ages: A New Story of Civilization is the new edition of Through the Ages: A Story of Civilization, with many changes small and large to the game's cards over its three ages and extensive changes to how military works.",
+        "url": "https://cf.geekdo-images.com/imagepage/img/lewVt7gXhfpps_hIHU5mrP75ypY=/fit-in/900x600/filters:no_upscale()/pic2663291.jpg",
+        "imgalt":"through the ages cover art",
+        "imgClass": "product-grid__img"
+    },
+    {
+        "name": "Twilight Imperium",
+        "price": "$105.47",
+        "className": "product-grid__product expensive civilization economic negotiation political science-fiction exploration wargame show",
+        "description": "Twilight Imperium (Fourth Edition) is a game of galactic conquest in which three to six players take on the role of one of seventeen factions vying for galactic domination through military might, political maneuvering, and economic bargaining.",
+        "url": "https://cf.geekdo-images.com/imagepage/img/XBGDkMsumi49GDTyFNXTj3OP9QQ=/fit-in/900x600/filters:no_upscale()/pic3727516.jpg",
+        "imgalt":"twilight imperium cover art",
+        "imgClass": "product-grid__img"
+    },
+    {
+        "name": "7 Wonders Duel",
+        "price": "$29.95",
+        "className": "product-grid__product cheap ancient card-game city-building civilization show",
+        "description": "In many ways 7 Wonders Duel resembles its parent game 7 Wonders as over three ages players acquire cards that provide resources or advance their military or scientific development in order to develop a civilization and complete wonders.",
+        "url": "https://cf.geekdo-images.com/imagepage/img/K29SesN_KgIUDX0O5y71nGX_GsQ=/fit-in/900x600/filters:no_upscale()/pic3376065.jpg",
+        "imgalt":"7 wonders duel cover art",
+        "imgClass": "product-grid__img"
+    },
+    {
+        "name": "Race for the Galaxy",
+        "price": "$26.66",
+        "className": "product-grid__product cheap card-game civilization economic science-fiction exploration show",
+        "description": "In the card game Race for the Galaxy, players build galactic civilizations by playing game cards in front of them that represent worlds or technical and social developments. ",
+        "url": "https://cf.geekdo-images.com/imagepage/img/s8CngMZC7S6HAC_kE3aC8oVL-Es=/fit-in/900x600/filters:no_upscale()/pic236327.jpg",
+        "imgalt":"race for the galaxy cover art",
+        "imgClass": "product-grid__img product-grid__img--tall"
+    },
+    {
+        "name": "Azul",
+        "price": "$33.99",
+        "className": "product-grid__product cheap abstract-strategy renaissance show",
+        "description": "In the game Azul, players take turns drafting colored tiles from suppliers to their player board. Later in the round, players score points based on how they've placed their tiles to decorate the palace.",
+        "url": "https://cf.geekdo-images.com/imagepage/img/mswTFqJsQ_omcKa_y1yNfFMJP6M=/fit-in/900x600/filters:no_upscale()/pic3718275.jpg",
+        "imgalt":"azul cover art",
+        "imgClass": "product-grid__img"
+    },
+    {
+        "name": "Mage Knight",
+        "price": "$146.89",
+        "className": "product-grid__product expensive adventure exploration fantasy fighting show",
+        "description": "The Mage Knight board game puts you in control of one of four powerful Mage Knights as you explore (and conquer) a corner of the Mage Knight universe under the control of the Atlantean Empire.",
+        "url": "https://cf.geekdo-images.com/imagepage/img/99jI1AXEfv3y1z0ZZmy2z8Ltxpc=/fit-in/900x600/filters:no_upscale()/pic1083380.jpg",
+        "imgalt":"mage knight cover art",
+        "imgClass": "product-grid__img"
+    },
+    {
+        "name": "Root",
+        "price": "$26.66",
+        "className": "product-grid__product cheap animals fantasy wargame show",
+        "description": "Root is a game of adventure and war in which 2 to 4 (1 to 6 with the 'Riverfolk' expansion) players battle for control of a vast wilderness.",
+        "url": "https://cf.geekdo-images.com/imagepage/img/9l4jrArVkm0eE2a4cjTSt5EmgC8=/fit-in/900x600/filters:no_upscale()/pic4254509.jpg",
+        "imgalt":"root cover art",
+        "imgClass": "product-grid__img product-grid__img--tall"
+    },
+    {
+        "name": "Pandemic",
+        "price": "$49.99",
+        "className": "product-grid__product medium medical show",
+        "description": "In Pandemic, several virulent diseases have broken out simultaneously all over the world! The players are disease-fighting specialists whose mission is to treat disease hotspots while researching cures for each of four plagues before they get out of hand.",
+        "url": "https://cf.geekdo-images.com/imagepage/img/3mRLkaz_shArWqExOXUS59cQowY=/fit-in/900x600/filters:no_upscale()/pic1534148.jpg",
+        "imgalt":"pandemic cover art",
+        "imgClass": "product-grid__img"
+    }
+]
