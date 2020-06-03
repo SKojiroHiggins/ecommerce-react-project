@@ -66,7 +66,7 @@ class contactBody extends React.Component {
                               
                 <textarea id="comment" name="comment" placeholder="Your comment here." ></textarea>
                 <p>
-                    <button type="submitButton">Submit</button>
+                    <button type="submit" className="submitButton">Submit</button>
                 </p>
             </form>
         </React.Fragment>)
